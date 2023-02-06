@@ -1,0 +1,10 @@
+name: Enchantments
+version: '${project.version}'
+main: me.mysticat.enchantments.Main
+api-version: 1.18
+author: Mysticat
+
+commands:
+  customenchant:
+    description: Add unique enchantments to your item!
+    aliases: [ce]
